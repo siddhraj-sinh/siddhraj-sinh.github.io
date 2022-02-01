@@ -227,6 +227,7 @@ img{
   padding: .45rem 1.5rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
+  margin-top: 25px;
 }
 .button:hover{
   box-shadow: 0 10px 36px rgba(0,0,0,.15);
