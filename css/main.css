@@ -2811,3 +2811,23 @@ blockquote {
     line-height: 1;
     border: none
 }
+
+.portfolio-item-details {
+    background-color: #484747; /* Light background for project details */
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .portfolio-item-details h4 {
+    margin-top: 0;
+    font-size: 1.25em;
+  }
+  
+  
+  
+  .item:hover .portfolio-item-details {
+    transform: translateY(-10px); /* Subtle hover effect */
+  }
+  
