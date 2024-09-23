@@ -2830,4 +2830,7 @@ blockquote {
   .item:hover .portfolio-item-details {
     transform: translateY(-10px); /* Subtle hover effect */
   }
-  
+
+  .award-image {
+    border-radius: 5px; /* Optional: add rounded corners */
+  }
